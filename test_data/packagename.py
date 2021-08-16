@@ -1,0 +1,44 @@
+def packagename():
+    name = {
+        # 金刚
+        "kingkong": "com.kingandroid.server.ctskong.defender",
+        # ctstar
+        "ctstar": "com.cleanandroid.server.ctstar",
+        # 微清理
+        "weiqingqi": "com.cleanapps.master",
+        # 黑猫
+        "blackcat": "com.cleanapps.super",
+        # 蜂鸟
+        "fengniao": "com.meet.cleanapps",
+        # 流星
+        "liuxing": "com.meteorandroid.server.ctsclean",
+        # 天眼
+        "tianyan": "com.cleandroid.server.ctskyeye",
+        # 秀我
+        "xiuwo": "com.imageandroid.server.ctsmatting",
+        # 简变
+        "jianbian": "com.mattingandroid.server.ctsimple",
+        # 5G精灵
+        "5Gjingling": "com.netandroid.server.ctselves",
+        # 5G快连
+        "5Gkuailian": "com.linkandroid.server.ctsmate",
+        # SD清理专家
+        "sdclean": "com.sdandroid.server.ctscard",
+        # 雷神
+        "leishen": "com.cleandroid.server.ctsthor",
+        # wifi随意连
+        "suiyilian": "com.connectandroid.server.ctseasy",
+        # wifi随心连
+        "suixinlian": "com.heartandroid.server.ctslink",
+        # 天天快清理
+        "tiantian": "com.cleandroid.server.ctspeed",
+        # 闪电快连
+        "shandian": "com.lightningandroid.server.ctslink",
+        # 天气
+        "tianqi": "com.weatherandroid.server.ctslink",
+        # 连连快
+        "lianliankuai": "com.fastandroid.server.ctsnet",
+        # 畅快连
+        "changkuailian" : "com.smoothandroid.server.ctslink"
+    }
+    return name
